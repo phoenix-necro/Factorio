@@ -9,8 +9,8 @@ data:extend(
     minable = {hardness = 0.2, mining_time = 5.0, result = "ultimate-solar-big"},
     max_health = 5000,
     corpse = "big-remnants",
-    collision_box = {{-2.0, -2.0}, {2.0, 2.0}},
-    selection_box = {{-2.1, -2.1}, {2.1, 2.1}},
+    collision_box = {{-1.9, -1.9}, {1.9, 1.9}},
+    selection_box = {{-2.01, -2.0}, {2.0, 2.0}},
     energy_source =
     {
       type = "electric",

@@ -1,0 +1,11 @@
+{
+  "name": "skan-advanced-solar-extended",
+  "version": "1.1.0",
+  "factorio_version": "0.16",
+  "title": "Skans Advanced Solar Extended",
+  "author": "Josh Wooten Inspired by Skan",
+  "contact": "jowooten@shadowstarllc.com",
+  "homepage": "https://",
+  "description": "extended to add a 10GW Solar panel.",
+  "dependencies": ["base >= 0.16.0", "skan-advanced-solar >= 1.1.0"]
+}

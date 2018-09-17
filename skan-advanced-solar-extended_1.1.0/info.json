@@ -5,7 +5,7 @@
   "title": "Skandragon's Advanced Solar Extended",
   "author": "Josh Wooten Inspired by Skandragon",
   "contact": "jowooten@shadowstarllc.com",
-  "homepage": "https://",
+  "homepage": "https://github.com/jowooten/Factorio/tree/master/skan-advanced-solar-extended_1.1.0",
   "description": "extended to add a 12GW Solar panel.",
   "dependencies": ["base >= 0.16.0", "skan-advanced-solar >= 1.1.0"]
 }
